@@ -52,9 +52,9 @@ Indie Hub
 
 ## 7. Team Members & Details
 
-| Name                | Role                | Email                       | LinkedIn                        |
-|---------------------|---------------------|-----------------------------|---------------------------------|
-| Mantej Singh Arora  | Team Lead / Backend | mantejarora@gmail.com       | [LinkedIn](https://linkedin.com/in/mantej-singh-arora) |
+| Name                | Role                | Email                       | LinkedIn                        | College Name                   |
+|---------------------|---------------------|-----------------------------|---------------------------------|--------------------------------|
+| Mantej Singh Arora  | Team Lead           | mantejarora@gmail.com       | [LinkedIn](https://linkedin.com/in/mantej-singh-arora) | IIT Delhi |
 | [Add more members as needed] | [Role] | [Email] | [LinkedIn] |
 
 ---
@@ -62,7 +62,7 @@ Indie Hub
 ## 8. Additional Links
 
 - [Project Demo/Video](#)
-- [GitHub Repository](#)
+- [Reference 1](#)
 - [Deployed App](#)
 
 ---

@@ -1,8 +1,16 @@
-# Genignite-Template
+<div align="center">
 
-The Submission template for GenIgnite Pre-Hackathon IPEC
+# Genignite Pre-Hackathon Submission Template 
+
+<img src="assets/logo/f58664d6c437.jpg" alt="Genignite Pre-Hackathon Logo"/>
+
+<br/>
 
 ---
+
+The Submission Template for GenIgnite Pre-Hackathon IPEC
+
+</div>
 
 ## 1. Problem Statement Name
 
